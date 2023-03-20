@@ -1,10 +1,12 @@
 # Stablo Blog Template - Next.js & Sanity CMS
 
-Stablo is a JAMStack Blog template built with Next.js, Tailwind CSS & Sanity CMS by [Web3Templates](https://web3templates.com/). It comes with free & pro version. 
+[airdrop-blog.vercel.app](https://airdrop-blog.vercel.app/)
+
+Stablo is a JAMStack Blog template built with Next.js, Tailwind CSS & Sanity CMS by [Web3Templates](https://web3templates.com/). It comes with free & pro version.
 
 <a href="https://vercel.com/new/web3templates/clone?demo-title=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&demo-description=A%20minimal%20blog%20website%20template%20built%20with%20Next.js%2C%20TailwindCSS%20%26%20Sanity%20CMS%0A&demo-url=https%3A%2F%2Fstablo-template.vercel.app%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6p72KDrdJ8SjyvOBrgRbnr%2F0760db43f2cb08504a2f67601e74d986%2FCleanShot_2022-07-15_at_16.54.17.png&project-name=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&repository-name=stablo-blog&repository-url=https%3A%2F%2Fgithub.com%2Fweb3templates%2Fstablo&from=templates&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx">
 <img width="259" alt="Deploy to Vercel & Sanity" src="https://user-images.githubusercontent.com/1884712/169833532-1007b9aa-1456-4386-9526-7b5b46b094ed.png">
-</a> 
+</a>
 
 ## Live Demo
 
@@ -14,42 +16,40 @@ Stablo is a JAMStack Blog template built with Next.js, Tailwind CSS & Sanity CMS
 
 ## Features
 
-|Feature|Free Version|Pro Version|
-|--------|-----------|-----------| 
-|Next.js Codebase |  ✅  |  ✅   |
-|Tailwind CSS|  ✅  |  ✅   |
-|Integrated with Sanity CMS |  ✅  |  ✅   |
-|One-Click Deploy |  ✅  |  ✅   |
-|Mobile Responsive|  ✅  |  ✅   |
-|Dark & Light Mode |  ✅  |  ✅   |
-|Working Contact Page|  ✅  |  ✅   |
-|Pagination |  ❌  | ✅  |
-|Category Pages |  ❌  | ✅  |
-|Author Pages |  ❌  | ✅  |
-|Search Page |  ❌  | ✅  |
-|Homepage - Default |  ✅ |  ✅   |
-|Homepage - Alternate |  ❌ |  ✅   |
-|Homepage - Minimal |  ❌ |  ✅   |
-|Homepage - Lifestlye |  ❌ |  ✅   |
-|Homepage - Two Column |  ❌ |  ✅   |
-|Blog Post - Default |   ✅  | ✅  |
-|Blog Post - Minimal |  ❌  | ✅  |
-|Blog Post - Lifestlye |  ❌  | ✅  |
-|Blog Post - with Sidebar |  ❌  | ✅  |
-|6 Months Support |  ❌  | ✅  |
-|Free Updates |  ✅  | ✅  |
-|License |   GPL-2.0   | Commercial  |
-| &nbsp;|&nbsp; | &nbsp; |
-|Pricing| Free | **$49** |
-| &nbsp;| [Deploy for free](https://vercel.com/new/web3templates/clone?demo-title=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&demo-description=A%20minimal%20blog%20website%20template%20built%20with%20Next.js%2C%20TailwindCSS%20%26%20Sanity%20CMS%0A&demo-url=https%3A%2F%2Fstablo-template.vercel.app%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6p72KDrdJ8SjyvOBrgRbnr%2F0760db43f2cb08504a2f67601e74d986%2FCleanShot_2022-07-15_at_16.54.17.png&project-name=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&repository-name=stablo-blog&repository-url=https%3A%2F%2Fgithub.com%2Fweb3templates%2Fstablo&from=templates&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx) | [Purchase Pro](https://web3templates.com/templates/stablo-minimal-blog-website-template)|
+| Feature                    | Free Version                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Pro Version                                                                           |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Next.js Codebase           | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Tailwind CSS               | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Integrated with Sanity CMS | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| One-Click Deploy           | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Mobile Responsive          | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Dark & Light Mode          | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Working Contact Page       | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Pagination                 | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Category Pages             | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Author Pages               | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Search Page                | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Homepage - Default         | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Homepage - Alternate       | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Homepage - Minimal         | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Homepage - Lifestlye       | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Homepage - Two Column      | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Blog Post - Default        | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Blog Post - Minimal        | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Blog Post - Lifestlye      | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Blog Post - with Sidebar   | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| 6 Months Support           | ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| Free Updates               | ✅                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ✅                                                                                    |
+| License                    | GPL-2.0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Commercial                                                                            |
+| &nbsp;                     | &nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | &nbsp;                                                                                |
+| Pricing                    | Free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **$49**                                                                         |
+| &nbsp;                     | [Deploy for free](https://vercel.com/new/web3templates/clone?demo-title=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&demo-description=A%20minimal%20blog%20website%20template%20built%20with%20Next.js%2C%20TailwindCSS%20%26%20Sanity%20CMS%0A&demo-url=https%3A%2F%2Fstablo-template.vercel.app%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6p72KDrdJ8SjyvOBrgRbnr%2F0760db43f2cb08504a2f67601e74d986%2FCleanShot_2022-07-15_at_16.54.17.png&project-name=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&repository-name=stablo-blog&repository-url=https%3A%2F%2Fgithub.com%2Fweb3templates%2Fstablo&from=templates&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx) | [Purchase Pro](https://web3templates.com/templates/stablo-minimal-blog-website-template) |
 
 <a href="https://web3templates.com/templates/stablo-minimal-blog-website-template">
 <img width="160" alt="Upgrade to Pro" src="https://user-images.githubusercontent.com/1884712/199181300-37c2128e-d033-4145-a906-16fa5263a53b.png">
-</a> 
+</a>
 
-
-
-###### Click the above button for one-click clone & deploy for this template. Read [quick start](#quick-start) guide below. 
+###### Click the above button for one-click clone & deploy for this template. Read [quick start](#quick-start) guide below.
 
 #### Template Preview
 
@@ -59,14 +59,13 @@ Stablo is a JAMStack Blog template built with Next.js, Tailwind CSS & Sanity CMS
 
 [![Backend Sanity CMS Preview](https://user-images.githubusercontent.com/1884712/170030678-c6e32d47-0b92-42b7-ac2d-f3cf800c0969.png)](https://stablo-template.vercel.app/studio)
 
-
 # Installation
 
 ## Step 1: Clone & Deploy
 
 <a href="https://vercel.com/new/web3templates/clone?demo-title=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&demo-description=A%20minimal%20blog%20website%20template%20built%20with%20Next.js%2C%20TailwindCSS%20%26%20Sanity%20CMS%0A&demo-url=https%3A%2F%2Fstablo-template.vercel.app%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6p72KDrdJ8SjyvOBrgRbnr%2F0760db43f2cb08504a2f67601e74d986%2FCleanShot_2022-07-15_at_16.54.17.png&project-name=Stablo%20%E2%80%93%20Minimal%20Blog%20Template&repository-name=stablo-blog&repository-url=https%3A%2F%2Fgithub.com%2Fweb3templates%2Fstablo&from=templates&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx">
 <img width="259" alt="Deploy to Vercel & Sanity" src="https://user-images.githubusercontent.com/1884712/169833532-1007b9aa-1456-4386-9526-7b5b46b094ed.png">
-</a> 
+</a>
 
 Click the above button to deploy for this template on vercel. It is the easist way to clone the repo, configure sanity and deploy to vercel.
 
@@ -80,7 +79,6 @@ Click the above button to deploy for this template on vercel. It is the easist w
 - Add required `.env` variables
 - Deploy Sanity Studio - Content Manager
 - Deploy to Vercel
- 
 
 ## Step 2: Add Content
 
@@ -132,7 +130,7 @@ npm run dev
 pnpm dev
 ```
 
-Now your project should be up and the Next.js frontend will be running on http://localhost:3000. 
+Now your project should be up and the Next.js frontend will be running on http://localhost:3000.
 
 Sanity Studio can be accessed using http://localhost:3333 by running the following command.
 
@@ -142,10 +140,9 @@ npm run sanity
 pnpm sanity
 ```
 
-
 ## Local Development
 
-Again, we recommend you to use the one-click deploy first which will create a github repo. You can then clone the github repo to your local system and change following `.env` variables. 
+Again, we recommend you to use the one-click deploy first which will create a github repo. You can then clone the github repo to your local system and change following `.env` variables.
 
 1. ~root/`.env.local`
 
@@ -165,6 +162,7 @@ SANITY_STUDIO_API_PROJECT_ID=xxyyzz
 SANITY_STUDIO_API_DATASET=production
 
 ```
+
 or you can directly replace the project ID in the `/studio/sanity.json`
 
 ```js
@@ -177,7 +175,6 @@ or you can directly replace the project ID in the `/studio/sanity.json`
   // ...
 ```
 
-
 ### Run Next.js frontend
 
 You can use the normal Next.js method to run the frontend. Just run the following command and a live server will open on `http://localhost:3000`
@@ -185,7 +182,6 @@ You can use the normal Next.js method to run the frontend. Just run the followin
 ```
 yarn dev
 ```
-
 
 ### Run Sanity Studio CMS
 
@@ -195,7 +191,7 @@ yarn dev
 npm install -g @sanity/cli
 ```
 
-2. Run 
+2. Run
 
 To run sanity studio server, run the following command in your terminal.  It will open a live server on `http://localhost:3333`
 
@@ -207,4 +203,4 @@ cd studio && sanity start
 
 ## Sponsor
 
-<a href="https://vercel.com/?utm_source=web3templates&amp;utm_campaign=oss" rel="nofollow"><img src="https://camo.githubusercontent.com/37b009b52b3a9af7886f52e75cd76d1b32fef331ab1dc2108089c0ced0b7635f/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f33313034392f313631383938333239372d706f77657265642d62792d76657263656c2e737667" alt="image" style="max-width: 70%;"></a>
+<a href="https://vercel.com/?utm_source=web3templates&utm_campaign=oss" rel="nofollow"><img src="https://camo.githubusercontent.com/37b009b52b3a9af7886f52e75cd76d1b32fef331ab1dc2108089c0ced0b7635f/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f33313034392f313631383938333239372d706f77657265642d62792d76657263656c2e737667" alt="image" style="max-width: 70%;"></a>
