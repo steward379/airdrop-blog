@@ -33,7 +33,7 @@
     "sanity": "^3.7.0",
     "styled-components": "^5.3.9",
     "use-web3forms": "^1.2.1",
-    "@sanity/client":"^2.23.2",
+    "sanity/client":"^2.23.2",
     "prop-types" : "^15.8.1",
     "react-is" : "^18.2.0",
     "typescript" : "^3.3.1"
