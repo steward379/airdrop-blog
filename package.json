@@ -33,11 +33,9 @@
     "sanity": "^3.7.0",
     "styled-components": "^5.3.9",
     "use-web3forms": "^1.2.1",
-    "sanity/client":"^2.23.2",
     "prop-types" : "^15.8.1",
     "react-is" : "^18.2.0",
     "typescript" : "^3.3.1"
- 
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
@@ -45,6 +43,7 @@
     "eslint-config-next": "^12.1.6",
     "eslint-config-sanity": "^6.0.0",
     "postcss": "^8.4.13",
-    "tailwindcss": "^3.0.24"
+    "tailwindcss": "^3.0.24",
+    "@sanity/client":"^2.23.2"
   }
 }
