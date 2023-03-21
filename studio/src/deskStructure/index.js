@@ -5,6 +5,7 @@ import {
   HiOutlineFilter,
   HiOutlineNewspaper
 } from "react-icons/hi";
+import {definePlugin} from 'sanity'
 
 // import PagePreview from "./previews/PagePreview";
 // import BlogPreview from "./previews/BlogPreview";

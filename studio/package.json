@@ -1,6 +1,6 @@
 {
-  "name": "stablo",
-  "private": true,
+  "name": "blog",
+  "private": false,
   "version": "1.0.2",
   "description": "Stablo is a JamStack Blog template built with Next.js, Tailwind CSS & Sanity CMS",
   "main": "package.json",
@@ -8,24 +8,21 @@
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
-    "build": "sanity build"
+    "build": "sanity build",
+    "dev": "sanity dev"
   },
   "keywords": [
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^2.29.8",
-    "@sanity/core": "^2.29.5",
-    "@sanity/default-layout": "^2.29.8",
-    "@sanity/default-login": "^2.29.8",
-    "@sanity/desk-tool": "^2.29.8",
     "@sanity/eslint-config-studio": "^2.0.0",
-    "@sanity/vision": "^2.29.8",
+    "@sanity/vision": "^3.7.0",
     "eslint": "^8.6.0",
-    "prop-types": "^15.7",
-    "react": "^18.2",
-    "react-dom": "^18.2",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-icons": "^4.3.1",
+    "sanity": "^3.7.0",
     "sanity-plugin-asset-source-unsplash": "^0.2.1",
     "styled-components": "^5.2.0"
   },
