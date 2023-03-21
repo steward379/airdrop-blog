@@ -9,6 +9,7 @@ export default defineConfig({
   title: 'My Cool Project',
   projectId: '4ubmrevl',
   dataset: 'production',
+  basePath: '/studio',
   plugins: [
     deskTool(),visionTool()
   ],
